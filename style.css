@@ -1,0 +1,67 @@
+#Registration>.container{
+  background-image: url(./1.png);
+  align-items: center;
+}
+
+#Registration #form3Example1cg{
+  background-color: #f1d6b0; 
+  width: 350px;
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+
+}
+
+#loginbutton{
+  color: white !important;
+}
+
+#Login>.container{
+  background-image: url(./1.png);
+  
+}
+
+#Login #form3Example1cg{
+  background-color: #f1d6b0; 
+  width: 350px;
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+
+}
+#Home>.container{
+  background-image: url(./2.png);
+}
+
+#Home>.container a{
+  color: black; 
+  text-decoration: underline;
+  font-size: 20px;
+}
+
+#Pricing1>.container{
+  background-image: url(./3.png);
+}
+
+#Pricing1>.container a{
+  color: #f1d6b0; 
+  text-decoration: underline;
+  font-size: 20px;
+}
+
+#Pricing2>.container{
+  background-image: url(./3.png);
+}
+
+#Pricing2>.container a{
+  color: #f1d6b0; 
+  text-decoration: underline;
+  font-size: 20px;
+}
+
+
+
+
+
